@@ -3,3 +3,7 @@
 # Links
 
 ## [Twitter](https://x.com/SixNodaa) | [Linktree](https://linktr.ee/sixnoda) | [Medium](https://medium.com/@sixnoda) | [Discord](https://discord.com/users/1018193746006917170) | [Link3](https://link3.to/free/FHjbIImv)
+
+# Guides
+
+## [0G Labs](https://github.com/SixNoda-Validator/0Glabs) | [OKP4]() | [Nibiru]() | [Nillion]()
