@@ -6,4 +6,4 @@
 
 # Guides
 
-## [0G Labs](https://github.com/SixNoda-Validator/0Glabs) | [OKP4]() | [Nibiru]() | [Nillion]()
+## [0G Labs](https://github.com/SixNoda-Validator/0Glabs) | [Story](https://github.com/SixNoda-Validator/Story) | [OKP4]() | [Nibiru]() | [Nillion]()
